@@ -1,0 +1,4 @@
+Packaged Used for Video:
+1. react-native-orientation-locker
+2. react-native-video
+3. react-native-community-slider
